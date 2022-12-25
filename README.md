@@ -3,11 +3,31 @@
 My name is Luis Miguel from Peru. I'm Big Data Engineer and also a Data Analyst but with a strong interest in Data Science which is a fun stuff. I've found in sharing what I'm learning a motivation, and this is the main focus on my GitHub repos: I believe that everyone can contribute to the community by sharing our knowledge and experiences.
 
 ### I have passion about:
+---
 - Programming and Data
 - Sharing content
 - Helping other developers like me
+&nbsp;
+### My Skills:
+---
+<code><img height="30" alt="sql" src="assets/sql.svg"></code>
+<code><img height="30" alt="java" src="assets/java.svg"></code>
+<code><img height="30" alt="html" src="assets/html.svg"></code>
+<code><img height="30" alt="css" src="assets/css.svg"></code>
+<code><img height="30" alt="javascript" src="assets/javascript.svg"></code>
+<code><img height="30" alt="python" src="assets/python.svg"></code>
+<code><img height="30" alt="spark" src="assets/apache-spark.svg"></code>
+<code><img height="30" alt="kafka" src="assets/apache-kafka.svg"></code>
+<code><img height="30" alt="airflow" src="assets/airflow.svg"></code>
+<code><img height="30" alt="aws" src="assets/aws.svg"></code>
+<code><img height="30" alt="azure" src="assets/azure.svg"></code>
+<code><img height="30" alt="gcp" src="assets/googlecloud.svg"></code>
 
+
+
+&nbsp;
 ### On my GitHub you may find different repos from 4 main branches:
+---
 
 - Data Engineering: these repos are focus on projects with many different tools that helps us to create data pipelines/workflows with batch/streaming processing and even using the cloud! (prefix for these repos names: 'de').
 - Data Science: if you want to learn different types of ML/DL algorithms, you can find them here. A very good to learn new things is by putting in practice, so you will se some notebooks with the explanation of those concepts in Data Science. I don't have too much experience on that but I'm making my whole effort for this. (prefix for these repos names: 'ds').
