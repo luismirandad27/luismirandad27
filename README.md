@@ -2,7 +2,7 @@
 
 My name is Luis Miguel from Peru. I'm Big Data Engineer and also a Data Analyst but with a strong interest in Data Science which is a fun stuff. I've found in sharing what I'm learning a motivation, and this is the main focus on my GitHub repos: I believe that everyone can contribute to the community by sharing our knowledge and experiences.
 
-### My passions:
+### I have passion about:
 - Programming and Data
 - Sharing content
 - Helping other developers like me
