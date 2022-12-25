@@ -15,6 +15,7 @@ My name is Luis Miguel from Peru. I'm Big Data Engineer and also a Data Analyst 
 <code><img height="30" alt="html" src="assets/html.svg"></code>
 <code><img height="30" alt="css" src="assets/css.svg"></code>
 <code><img height="30" alt="javascript" src="assets/javascript.svg"></code>
+<code><img height="30" alt="git" src="assets/git.svg"></code>
 <code><img height="30" alt="python" src="assets/python.svg"></code>
 <code><img height="30" alt="spark" src="assets/apache-spark.svg"></code>
 <code><img height="30" alt="kafka" src="assets/apache-kafka.svg"></code>
