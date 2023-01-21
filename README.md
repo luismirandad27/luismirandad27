@@ -33,6 +33,7 @@ I'm Luis Miguel from Peru. I'm Big Data Engineer and also a Data Analyst but wit
 - :hammer: **Data Engineering** *(repo prexis: 'de')*: these repos are focus on projects with many different tools that helps us to create data pipelines/workflows with batch/streaming processing and even using the cloud!
 - :microscope: **Data Science** *(repo prexis: 'ds')*: if you want to learn different types of ML/DL algorithms, you can find them here. A very good to learn new things is by putting in practice, so you will se some notebooks with the explanation of those concepts in Data Science. I don't have too much experience on that but I'm making my whole effort for this.
 - :chart_with_upwards_trend: **Data Analysis** *(repo prexis: 'da')*: if you are focusing on this branch or specialization, you will find some exercises, challenges (from the Internet) and examples of how to analyze data to get the insights.
+- 💻: **Software Engineering** *(repo prexis: 'se')*: I developing some projects in my Software Engineering courses. You may find some examples of implementing websites with some frameworks and the application of different types of algorithms.
 - :man_technologist: **Cheat Sheets**: this repo is just focus on sharing the most common syntaxis (and examples) of different programming languages (not only for data processing) that I learned over the years. I pretty sure that it will be helpful for you!
 
 Right know, I started to learn new thing in theses branches, and of course I will share them to you! :raised_hands:
