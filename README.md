@@ -38,13 +38,18 @@ I'm Luis Miguel from Peru. I'm Big Data Engineer and also a Data Analyst but wit
 
 Right know, I started to learn new thing in theses branches, and of course I will share them to you! :raised_hands:
 
+Some stats to make this more fancy 😄
+
+<a href="https://github.com/luismirandad27">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luismirandad27&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismirandad27&layout=compact&theme=vue">
+</a>
+
 ### Get in touch :raising_hand_man:
 ---
 #### <img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> GitHub: https://github.com/luismirandad27 
 #### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> Medium: https://medium.com/@lmirandad27
 #### <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> LinkedIn: https://www.linkedin.com/in/lmirandad27/
-#### <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> My Website: https://luismiguelmiranda.com
-
 
 <!--
 **luismirandad27/luismirandad27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
