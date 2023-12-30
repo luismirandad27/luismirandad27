@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luis Miguel from Peru. I'm Big Data Engineer and also a Data Analyst but with a strong interest in Data Science which is a fun stuff. I've found a motivation in sharing what I learn, and this is the main focus on my GitHub repos: I believe that everyone can contribute to the community by sharing our knowledge and experiences.
+I'm Luis Miguel from Peru but living in Vancouver, Canada. I'm Analytics Engineer with a strong interest in Data Science which is a fun stuff. I've found a motivation in sharing what I learn, and this is the main focus on my GitHub repos: I believe that everyone can contribute to the community by sharing our knowledge and experiences.
 
 ### I have passion about :heart: 
 ---
@@ -27,7 +27,7 @@ I'm Luis Miguel from Peru. I'm Big Data Engineer and also a Data Analyst but wit
 
 
 &nbsp;
-### On my GitHub you may find different repos from 4 main branches:
+### On my GitHub you may find different repos from 4 main categories:
 ---
 
 - :hammer: **Data Engineering** *(repo prexis: 'de')*: these repos are focus on projects with many different tools that helps us to create data pipelines/workflows with batch/streaming processing and even using the cloud!
